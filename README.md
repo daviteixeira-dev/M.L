@@ -6,7 +6,7 @@ Período: 2025.1
 
 Professor: César Lincoln Cavalcante Mattos
 
-## Lista 1 - Regressão logística e métodos estatísticos
+## Lista 2 - Regressão logística e métodos estatísticos
 
  ```
 Instruções
